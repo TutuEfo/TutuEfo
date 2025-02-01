@@ -11,7 +11,7 @@ to be filled in later
 * 🚀  I'm currently working on [2D Platformer](http://github.com/TutuEfo/2D-Platformer)
 * 🧠  I'm learning Unity, Ableton
 
-### Skills
+### Skills:
 
 
 <p align="left">
@@ -19,11 +19,14 @@ to be filled in later
 </p>
 
 
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://discord.com/users/tutuefo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/TutuEFo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## 🎧 Listening:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ifq61lwgmnm80b1d927daes91&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+### Badges:
 
 <b>My GitHub Stats</b>
 
