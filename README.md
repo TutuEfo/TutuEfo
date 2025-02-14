@@ -9,7 +9,7 @@ to be filled in later
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [tunaefeyavuz@gmail.com](mailto:tunaefeyavuz@gmail.com)
 * 🚀  I'm currently working on [2D Platformer](http://github.com/TutuEfo/2D-Platformer)
-* 🧠  I'm learning Unity, Ableton
+* 🧠  I'm learning Unity, Ableton, and Aseprite.
 
 ### Skills:
 
